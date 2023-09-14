@@ -35,7 +35,7 @@ const VaccinationCoverage = props => {
           tickFormatter={dataFormatter}
           tick={{
             stroke: '#6c757d',
-            strokeWidth: 0.5,
+            strokeWidth: 1,
             fontSize: 15,
             fontFamily: 'Roboto',
           }}
